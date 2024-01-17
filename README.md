@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BernyDarius43
+- I'm a newly grad student in application developpement   
 - 🌱 I’m currently learning computer programming
 - 📫 How to reach me
    # Email: bernydarius01@gmail.com
